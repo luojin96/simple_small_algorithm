@@ -1,0 +1,35 @@
+{
+    "require": {
+        "houdunwang/loader": "^1.0",
+        "composer/composer": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\DesignPatterns\\": "",
+            "Baijunyao\\DesignPatterns\\": ""
+        }
+    }
+
+}
+
+
+
+//{
+//    "name": "baijunyao/design-patterns",
+//    "description": "design patterns",
+//    "type": "project",
+//    "license": "MIT",
+//    "authors": [
+//        {
+//            "name": "baijunyao",
+//            "email": "baijunyao@baijunyao.com"
+//        }
+//    ],
+//    "require": {},
+//    "autoload": {
+//        "psr-4": {
+//            "Baijunyao\\DesignPatterns\\": ""
+//        }
+//    }
+//}
+
